@@ -1,6 +1,8 @@
+
+
 #Matplotlib_Pharma_Challenge
 
-data_analysis.png
+![Data Analysis Pharma] (data_analysis.png)
 
 By using Matplotlib and Pandas I helped to Pharmaceuticals Inc. to look for potential treatments for squamous cell carcinoma (SCC) done by an Analysis of Drug Regimens on Mice. This contains a script analysing pharmaceutical data from mice and tumor volumes. The goal was to analyze the mice and the drug regimens in the study. The main drug analysis is done on Capumulin.
 
